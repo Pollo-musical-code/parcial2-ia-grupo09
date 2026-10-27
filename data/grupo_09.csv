@@ -1,0 +1,85 @@
+estudiante_id,programa,asistencia_pct,promedio_notas,desercion
+E001,Sistemas,73,1.6,1
+E002,Sistemas,90,1.8,1
+E003,Sistemas,85,2.1,1
+E004,Administración,60,3.9,1
+E005,Administración,76,3.5,0
+E079,Mecatrónica,94,2.2,1
+E006,Contaduría,52,1.9,1
+E007,Sistemas,49,2.6,1
+E008,Gestión Empresarial,70,4.6,0
+E009,Mecatrónica,73,4.4,0
+E010,Contaduría,100,3.7,0
+E011,Administración,99,3.6,0
+E012,Mecatrónica,71,4.0,0
+E013,Gestión Empresarial,80,1.8,1
+E014,Contaduría,52,4.9,0
+E015,Contaduría,86,4.4,0
+E016,Contaduría,88,3.1,0
+E017,Administración,98,4.0,0
+E018,Gestión Empresarial,48,3.7,1
+E019,Sistemas,67,4.0,0
+E020,Mecatrónica,79,3.1,0
+E021,Contaduría,73,3.1,0
+E022,Mecatrónica,47,4.9,1
+E023,Gestión Empresarial,79%,1.6,1
+E024,Gestión Empresarial,86,2.4,0
+E025,Administración,93,4.6,0
+E026,Administración,44,,1
+E027,Mecatrónica,57,1.5,1
+E028,Contaduría,94,,0
+E029,Administración,81,2.0,1
+E030,Gestión Empresarial,88,4.3,0
+E031,Contaduría,59,2.4,1
+E032,Administración,51,2.7,1
+E033,Administración,70,2.9,1
+E034,Mecatrónica,64,4.6,0
+E035,Gestión Empresarial,56,2.9,1
+E036,Sistemas,70,1.8,1
+E037,Mecatrónica,45,2.9,1
+E038,Administración,98,2.2,0
+E039,Mecatrónica,58,3.7,1
+E040,Contaduría,41,1.6,1
+E041,Sistemas,89,2.8,0
+E042,Administración,53,2.6,1
+E043,Sistemas,52,4.0,1
+E044,Administración,76,3.6,0
+E045,Administración,61,4.2,0
+E046,Sistemas,66,3.0,0
+E037,Mecatrónica,45,2.9,1
+E047,Gestión Empresarial,92,2.8,0
+E048,Contaduría,59,4.7,0
+E049,Contaduría,95,2.4,0
+E050,Contaduría,48,4.7,0
+E051,Contaduría,57,82.0,1
+E029,Administración,81,2.0,1
+E052,Mecatrónica,86,2.3,0
+E053,Mecatrónica,90%,2.1,1
+E054,Sistemas,85,2.1,0
+E055,Contaduría,40,3.9,1
+E056,Sistemas,80,4.1,0
+E057,Administración,87,4.0,0
+E058,Gestión Empresarial,49,2.2,1
+E059,Sistemas,82,2.6,0
+E060,Gestión Empresarial,100,2.5,0
+E061,Administración,41%,3.6,1
+E062,Gestión Empresarial,86,3.0,0
+E063,Gestión Empresarial,85,3.2,0
+E064,Administración,49,2.1,1
+E065,Contaduría,41,3.5,1
+E066,Gestión Empresarial,72,1.7,1
+E067,Contaduría,53,4.7,0
+E068,Mecatrónica,84,4.3,0
+E069,Sistemas,88,3.2,0
+E070,Gestión Empresarial,48,3.9,1
+E071,Administración,46,4.9,0
+E072,Gestión Empresarial,92,1.9,0
+E073,Sistemas,72,4.3,0
+E074,Gestión Empresarial,55,1.8,1
+E075,Gestión Empresarial,88,3.6,0
+E076,Contaduría,87,2.7,0
+E077,Contaduría,97,3.6,0
+E078,Gestión Empresarial,51,,1
+E079,Mecatrónica,94,2.2,1
+E016,Contaduría,88,3.1,0
+E080,Administración,73,1.9,1
